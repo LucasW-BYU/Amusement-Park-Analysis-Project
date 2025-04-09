@@ -1,5 +1,5 @@
 
-# Amusement Park Parking Analytics (2025 Simulation)
+# Amusement Park Parking Analytics Project (2025 Simulation)
 
 This project analyzes a full year of **simulated parking data** for a large amusement park. It demonstrates forecasting, shuttle deployment logic, cost auditing, and operational planning using SQL and Python.
 
